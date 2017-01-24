@@ -1,5 +1,5 @@
 # Sitecore.Support.144386
-If you use more than two renderings in one placeholder on the additional device and save any changes in Page Editor then the order of these renderings may be changed.<br/>
+If you use more than two renderings in one placeholder on the additional device and save any changes in `Page Editor` then the order of these renderings may be changed.<br/>
 This patch prevents from the described behavior.
 
 ## License  
